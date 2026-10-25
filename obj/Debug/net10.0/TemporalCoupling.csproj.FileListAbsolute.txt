@@ -1,0 +1,14 @@
+C:\Users\feertch\projects\IFP-6\bin\Debug\net10.0\TemporalCoupling.exe
+C:\Users\feertch\projects\IFP-6\bin\Debug\net10.0\TemporalCoupling.deps.json
+C:\Users\feertch\projects\IFP-6\bin\Debug\net10.0\TemporalCoupling.runtimeconfig.json
+C:\Users\feertch\projects\IFP-6\bin\Debug\net10.0\TemporalCoupling.dll
+C:\Users\feertch\projects\IFP-6\bin\Debug\net10.0\TemporalCoupling.pdb
+C:\Users\feertch\projects\IFP-6\obj\Debug\net10.0\TemporalCoupling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feertch\projects\IFP-6\obj\Debug\net10.0\TemporalCoupling.AssemblyInfoInputs.cache
+C:\Users\feertch\projects\IFP-6\obj\Debug\net10.0\TemporalCoupling.AssemblyInfo.cs
+C:\Users\feertch\projects\IFP-6\obj\Debug\net10.0\TemporalCoupling.csproj.CoreCompileInputs.cache
+C:\Users\feertch\projects\IFP-6\obj\Debug\net10.0\TemporalCoupling.dll
+C:\Users\feertch\projects\IFP-6\obj\Debug\net10.0\refint\TemporalCoupling.dll
+C:\Users\feertch\projects\IFP-6\obj\Debug\net10.0\TemporalCoupling.pdb
+C:\Users\feertch\projects\IFP-6\obj\Debug\net10.0\TemporalCoupling.genruntimeconfig.cache
+C:\Users\feertch\projects\IFP-6\obj\Debug\net10.0\ref\TemporalCoupling.dll
